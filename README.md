@@ -7,7 +7,7 @@
 
 ```docker run -it -p 9000:9000 -p 9191:9191 --rm imagename```
 
- -p for publish flag, we are saying that we are mapping post in host machine to port in process network
+ -p for publish flag, we are saying that we are mapping port in host machine to port in process network
 
 
 ### Size of image is 305MB
